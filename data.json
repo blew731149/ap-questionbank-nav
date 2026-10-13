@@ -1,0 +1,1433 @@
+{
+ "stats": {
+  "bio_mcq_groups": 38,
+  "bio_frq_groups": 7,
+  "chem_pc_pairs": 15,
+  "not_dup_groups": 6,
+  "bio_total_questions": 2840,
+  "chem_total_questions": 246
+ },
+ "bio_groups": [
+  {
+   "id": "U1_Q21_U8_Q26",
+   "section": "U1 Chemistry of Life",
+   "members": [
+    {
+     "label": "U1 Q21",
+     "unit": "U1",
+     "qnum": 21,
+     "sg1_page": 15,
+     "keep": true
+    },
+    {
+     "label": "U8 Q26",
+     "unit": "U8",
+     "qnum": 26,
+     "sg1_page": 662,
+     "keep": false
+    }
+   ],
+   "keep": "U1 Q21",
+   "stem": "",
+   "img": "U1_Q21_U8_Q26.png"
+  },
+  {
+   "id": "U1_Q41_U2_Q94",
+   "section": "U1 Chemistry of Life",
+   "members": [
+    {
+     "label": "U1 Q41",
+     "unit": "U1",
+     "qnum": 41,
+     "sg1_page": 30,
+     "keep": true
+    },
+    {
+     "label": "U2 Q94",
+     "unit": "U2",
+     "qnum": 94,
+     "sg1_page": 115,
+     "keep": false
+    }
+   ],
+   "keep": "U1 Q41",
+   "stem": "",
+   "img": "U1_Q41_U2_Q94.png"
+  },
+  {
+   "id": "U1_Q59_U8_Q90",
+   "section": "U1 Chemistry of Life",
+   "members": [
+    {
+     "label": "U1 Q59",
+     "unit": "U1",
+     "qnum": 59,
+     "sg1_page": 47,
+     "keep": true
+    },
+    {
+     "label": "U8 Q90",
+     "unit": "U8",
+     "qnum": 90,
+     "sg1_page": 713,
+     "keep": false
+    }
+   ],
+   "keep": "U1 Q59",
+   "stem": "",
+   "img": "U1_Q59_U8_Q90.png"
+  },
+  {
+   "id": "U1_Q65_U2_Q90",
+   "section": "U1 Chemistry of Life",
+   "members": [
+    {
+     "label": "U1 Q65",
+     "unit": "U1",
+     "qnum": 65,
+     "sg1_page": 50,
+     "keep": true
+    },
+    {
+     "label": "U2 Q90",
+     "unit": "U2",
+     "qnum": 90,
+     "sg1_page": 114,
+     "keep": false
+    }
+   ],
+   "keep": "U1 Q65",
+   "stem": "",
+   "img": "U1_Q65_U2_Q90.png"
+  },
+  {
+   "id": "U2_Q24_U2_Q67",
+   "section": "U2 Cell",
+   "members": [
+    {
+     "label": "U2 Q24",
+     "unit": "U2",
+     "qnum": 24,
+     "sg1_page": 69,
+     "keep": true
+    },
+    {
+     "label": "U2 Q67",
+     "unit": "U2",
+     "qnum": 67,
+     "sg1_page": 99,
+     "keep": false
+    }
+   ],
+   "keep": "U2 Q24",
+   "stem": "",
+   "img": "U2_Q24_U2_Q67.png"
+  },
+  {
+   "id": "U2_Q25_U2_Q26",
+   "section": "U2 Cell",
+   "members": [
+    {
+     "label": "U2 Q25",
+     "unit": "U2",
+     "qnum": 25,
+     "sg1_page": 69,
+     "keep": true
+    },
+    {
+     "label": "U2 Q26",
+     "unit": "U2",
+     "qnum": 26,
+     "sg1_page": 70,
+     "keep": false
+    }
+   ],
+   "keep": "U2 Q25",
+   "stem": "",
+   "img": "U2_Q25_U2_Q26.png"
+  },
+  {
+   "id": "U2_Q30_U2_Q31",
+   "section": "U2 Cell",
+   "members": [
+    {
+     "label": "U2 Q30",
+     "unit": "U2",
+     "qnum": 30,
+     "sg1_page": 72,
+     "keep": true
+    },
+    {
+     "label": "U2 Q31",
+     "unit": "U2",
+     "qnum": 31,
+     "sg1_page": 74,
+     "keep": false
+    }
+   ],
+   "keep": "U2 Q30",
+   "stem": "",
+   "img": "U2_Q30_U2_Q31.png"
+  },
+  {
+   "id": "U2_Q137_U2_Q143",
+   "section": "U2 Cell",
+   "members": [
+    {
+     "label": "U2 Q137",
+     "unit": "U2",
+     "qnum": 137,
+     "sg1_page": 138,
+     "keep": true
+    },
+    {
+     "label": "U2 Q143",
+     "unit": "U2",
+     "qnum": 143,
+     "sg1_page": 143,
+     "keep": false
+    }
+   ],
+   "keep": "U2 Q137",
+   "stem": "",
+   "img": "U2_Q137_U2_Q143.png"
+  },
+  {
+   "id": "U3_Q5_U3_Q7",
+   "section": "U3 Cellular Energetics",
+   "members": [
+    {
+     "label": "U3 Q5",
+     "unit": "U3",
+     "qnum": 5,
+     "sg1_page": 154,
+     "keep": true
+    },
+    {
+     "label": "U3 Q7",
+     "unit": "U3",
+     "qnum": 7,
+     "sg1_page": 155,
+     "keep": false
+    }
+   ],
+   "keep": "U3 Q5",
+   "stem": "",
+   "img": "U3_Q5_U3_Q7.png"
+  },
+  {
+   "id": "U3_Q8_U3_Q10",
+   "section": "U3 Cellular Energetics",
+   "members": [
+    {
+     "label": "U3 Q8",
+     "unit": "U3",
+     "qnum": 8,
+     "sg1_page": 156,
+     "keep": true
+    },
+    {
+     "label": "U3 Q10",
+     "unit": "U3",
+     "qnum": 10,
+     "sg1_page": 157,
+     "keep": false
+    }
+   ],
+   "keep": "U3 Q8",
+   "stem": "",
+   "img": "U3_Q8_U3_Q10.png"
+  },
+  {
+   "id": "U3_Q9_U3_Q11",
+   "section": "U3 Cellular Energetics",
+   "members": [
+    {
+     "label": "U3 Q9",
+     "unit": "U3",
+     "qnum": 9,
+     "sg1_page": 156,
+     "keep": true
+    },
+    {
+     "label": "U3 Q11",
+     "unit": "U3",
+     "qnum": 11,
+     "sg1_page": 157,
+     "keep": false
+    }
+   ],
+   "keep": "U3 Q9",
+   "stem": "",
+   "img": "U3_Q9_U3_Q11.png"
+  },
+  {
+   "id": "U3_Q47_U3_Q48",
+   "section": "U3 Cellular Energetics",
+   "members": [
+    {
+     "label": "U3 Q47",
+     "unit": "U3",
+     "qnum": 47,
+     "sg1_page": 177,
+     "keep": true
+    },
+    {
+     "label": "U3 Q48",
+     "unit": "U3",
+     "qnum": 48,
+     "sg1_page": 177,
+     "keep": false
+    }
+   ],
+   "keep": "U3 Q47",
+   "stem": "",
+   "img": "U3_Q47_U3_Q48.png"
+  },
+  {
+   "id": "U4_Q3_U5_Q93",
+   "section": "U4 Cell Communication & Cell Cycle",
+   "members": [
+    {
+     "label": "U4 Q3",
+     "unit": "U4",
+     "qnum": 3,
+     "sg1_page": 230,
+     "keep": true
+    },
+    {
+     "label": "U5 Q93",
+     "unit": "U5",
+     "qnum": 93,
+     "sg1_page": 372,
+     "keep": false
+    }
+   ],
+   "keep": "U4 Q3",
+   "stem": "",
+   "img": "U4_Q3_U5_Q93.png"
+  },
+  {
+   "id": "U4_Q37_U6_Q34",
+   "section": "U4 Cell Communication & Cell Cycle",
+   "members": [
+    {
+     "label": "U4 Q37",
+     "unit": "U4",
+     "qnum": 37,
+     "sg1_page": 255,
+     "keep": true
+    },
+    {
+     "label": "U6 Q34",
+     "unit": "U6",
+     "qnum": 34,
+     "sg1_page": 405,
+     "keep": false
+    }
+   ],
+   "keep": "U4 Q37",
+   "stem": "",
+   "img": "U4_Q37_U6_Q34.png"
+  },
+  {
+   "id": "U4_Q49_U4_Q50",
+   "section": "U4 Cell Communication & Cell Cycle",
+   "members": [
+    {
+     "label": "U4 Q49",
+     "unit": "U4",
+     "qnum": 49,
+     "sg1_page": 261,
+     "keep": true
+    },
+    {
+     "label": "U4 Q50",
+     "unit": "U4",
+     "qnum": 50,
+     "sg1_page": 261,
+     "keep": false
+    }
+   ],
+   "keep": "U4 Q49",
+   "stem": "",
+   "img": "U4_Q49_U4_Q50.png"
+  },
+  {
+   "id": "U4_Q99_U4_Q100",
+   "section": "U4 Cell Communication & Cell Cycle",
+   "members": [
+    {
+     "label": "U4 Q99",
+     "unit": "U4",
+     "qnum": 99,
+     "sg1_page": 293,
+     "keep": true
+    },
+    {
+     "label": "U4 Q100",
+     "unit": "U4",
+     "qnum": 100,
+     "sg1_page": 281,
+     "keep": false
+    }
+   ],
+   "keep": "U4 Q99",
+   "stem": "",
+   "img": "U4_Q99_U4_Q100.png"
+  },
+  {
+   "id": "U5_Q7_U6_Q3",
+   "section": "U5 Heredity",
+   "members": [
+    {
+     "label": "U5 Q7",
+     "unit": "U5",
+     "qnum": 7,
+     "sg1_page": 317,
+     "keep": true
+    },
+    {
+     "label": "U6 Q3",
+     "unit": "U6",
+     "qnum": 3,
+     "sg1_page": 388,
+     "keep": false
+    }
+   ],
+   "keep": "U5 Q7",
+   "stem": "",
+   "img": "U5_Q7_U6_Q3.png"
+  },
+  {
+   "id": "U5_Q45_U6_Q53",
+   "section": "U5 Heredity",
+   "members": [
+    {
+     "label": "U5 Q45",
+     "unit": "U5",
+     "qnum": 45,
+     "sg1_page": 340,
+     "keep": true
+    },
+    {
+     "label": "U6 Q53",
+     "unit": "U6",
+     "qnum": 53,
+     "sg1_page": 418,
+     "keep": false
+    }
+   ],
+   "keep": "U5 Q45",
+   "stem": "",
+   "img": "U5_Q45_U6_Q53.png"
+  },
+  {
+   "id": "U5_Q46_U5_Q47",
+   "section": "U5 Heredity",
+   "members": [
+    {
+     "label": "U5 Q46",
+     "unit": "U5",
+     "qnum": 46,
+     "sg1_page": 341,
+     "keep": true
+    },
+    {
+     "label": "U5 Q47",
+     "unit": "U5",
+     "qnum": 47,
+     "sg1_page": 341,
+     "keep": false
+    }
+   ],
+   "keep": "U5 Q46",
+   "stem": "",
+   "img": "U5_Q46_U5_Q47.png"
+  },
+  {
+   "id": "U5_Q86_U5_Q91",
+   "section": "U5 Heredity",
+   "members": [
+    {
+     "label": "U5 Q86",
+     "unit": "U5",
+     "qnum": 86,
+     "sg1_page": 368,
+     "keep": true
+    },
+    {
+     "label": "U5 Q91",
+     "unit": "U5",
+     "qnum": 91,
+     "sg1_page": 371,
+     "keep": false
+    }
+   ],
+   "keep": "U5 Q86",
+   "stem": "",
+   "img": "U5_Q86_U5_Q91.png"
+  },
+  {
+   "id": "U5_Q87_U5_Q88",
+   "section": "U5 Heredity",
+   "members": [
+    {
+     "label": "U5 Q87",
+     "unit": "U5",
+     "qnum": 87,
+     "sg1_page": 368,
+     "keep": true
+    },
+    {
+     "label": "U5 Q88",
+     "unit": "U5",
+     "qnum": 88,
+     "sg1_page": 369,
+     "keep": false
+    }
+   ],
+   "keep": "U5 Q87",
+   "stem": "",
+   "img": "U5_Q87_U5_Q88.png"
+  },
+  {
+   "id": "U6_Q4_U6_Q9",
+   "section": "U6 Gene Expression & Regulation",
+   "members": [
+    {
+     "label": "U6 Q4",
+     "unit": "U6",
+     "qnum": 4,
+     "sg1_page": 388,
+     "keep": true
+    },
+    {
+     "label": "U6 Q9",
+     "unit": "U6",
+     "qnum": 9,
+     "sg1_page": 390,
+     "keep": false
+    }
+   ],
+   "keep": "U6 Q4",
+   "stem": "",
+   "img": "U6_Q4_U6_Q9.png"
+  },
+  {
+   "id": "U6_Q5_U6_Q10",
+   "section": "U6 Gene Expression & Regulation",
+   "members": [
+    {
+     "label": "U6 Q5",
+     "unit": "U6",
+     "qnum": 5,
+     "sg1_page": 388,
+     "keep": true
+    },
+    {
+     "label": "U6 Q10",
+     "unit": "U6",
+     "qnum": 10,
+     "sg1_page": 390,
+     "keep": false
+    }
+   ],
+   "keep": "U6 Q5",
+   "stem": "",
+   "img": "U6_Q5_U6_Q10.png"
+  },
+  {
+   "id": "U6_Q6_U6_Q11",
+   "section": "U6 Gene Expression & Regulation",
+   "members": [
+    {
+     "label": "U6 Q6",
+     "unit": "U6",
+     "qnum": 6,
+     "sg1_page": 389,
+     "keep": true
+    },
+    {
+     "label": "U6 Q11",
+     "unit": "U6",
+     "qnum": 11,
+     "sg1_page": 391,
+     "keep": false
+    }
+   ],
+   "keep": "U6 Q6",
+   "stem": "",
+   "img": "U6_Q6_U6_Q11.png"
+  },
+  {
+   "id": "U6_Q7_U6_Q12",
+   "section": "U6 Gene Expression & Regulation",
+   "members": [
+    {
+     "label": "U6 Q7",
+     "unit": "U6",
+     "qnum": 7,
+     "sg1_page": 389,
+     "keep": true
+    },
+    {
+     "label": "U6 Q12",
+     "unit": "U6",
+     "qnum": 12,
+     "sg1_page": 391,
+     "keep": false
+    }
+   ],
+   "keep": "U6 Q7",
+   "stem": "",
+   "img": "U6_Q7_U6_Q12.png"
+  },
+  {
+   "id": "U6_Q8_U6_Q13",
+   "section": "U6 Gene Expression & Regulation",
+   "members": [
+    {
+     "label": "U6 Q8",
+     "unit": "U6",
+     "qnum": 8,
+     "sg1_page": 389,
+     "keep": true
+    },
+    {
+     "label": "U6 Q13",
+     "unit": "U6",
+     "qnum": 13,
+     "sg1_page": 392,
+     "keep": false
+    }
+   ],
+   "keep": "U6 Q8",
+   "stem": "",
+   "img": "U6_Q8_U6_Q13.png"
+  },
+  {
+   "id": "U6_Q82_U6_Q83",
+   "section": "U6 Gene Expression & Regulation",
+   "members": [
+    {
+     "label": "U6 Q82",
+     "unit": "U6",
+     "qnum": 82,
+     "sg1_page": 438,
+     "keep": true
+    },
+    {
+     "label": "U6 Q83",
+     "unit": "U6",
+     "qnum": 83,
+     "sg1_page": 438,
+     "keep": false
+    }
+   ],
+   "keep": "U6 Q82",
+   "stem": "",
+   "img": "U6_Q82_U6_Q83.png"
+  },
+  {
+   "id": "U6_Q111_U6_Q117",
+   "section": "U6 Gene Expression & Regulation",
+   "members": [
+    {
+     "label": "U6 Q111",
+     "unit": "U6",
+     "qnum": 111,
+     "sg1_page": 456,
+     "keep": true
+    },
+    {
+     "label": "U6 Q117",
+     "unit": "U6",
+     "qnum": 117,
+     "sg1_page": 460,
+     "keep": false
+    }
+   ],
+   "keep": "U6 Q111",
+   "stem": "",
+   "img": "U6_Q111_U6_Q117.png"
+  },
+  {
+   "id": "U6_Q155_U6_Q156",
+   "section": "U6 Gene Expression & Regulation",
+   "members": [
+    {
+     "label": "U6 Q155",
+     "unit": "U6",
+     "qnum": 155,
+     "sg1_page": 488,
+     "keep": true
+    },
+    {
+     "label": "U6 Q156",
+     "unit": "U6",
+     "qnum": 156,
+     "sg1_page": 489,
+     "keep": false
+    }
+   ],
+   "keep": "U6 Q155",
+   "stem": "",
+   "img": "U6_Q155_U6_Q156.png"
+  },
+  {
+   "id": "U7_Q22_U7_Q23",
+   "section": "U7 Natural Selection",
+   "members": [
+    {
+     "label": "U7 Q22",
+     "unit": "U7",
+     "qnum": 22,
+     "sg1_page": 512,
+     "keep": true
+    },
+    {
+     "label": "U7 Q23",
+     "unit": "U7",
+     "qnum": 23,
+     "sg1_page": 512,
+     "keep": false
+    }
+   ],
+   "keep": "U7 Q22",
+   "stem": "",
+   "img": "U7_Q22_U7_Q23.png"
+  },
+  {
+   "id": "U7_Q52_U7_Q53",
+   "section": "U7 Natural Selection",
+   "members": [
+    {
+     "label": "U7 Q52",
+     "unit": "U7",
+     "qnum": 52,
+     "sg1_page": 534,
+     "keep": true
+    },
+    {
+     "label": "U7 Q53",
+     "unit": "U7",
+     "qnum": 53,
+     "sg1_page": 536,
+     "keep": false
+    }
+   ],
+   "keep": "U7 Q52",
+   "stem": "",
+   "img": "U7_Q52_U7_Q53.png"
+  },
+  {
+   "id": "U7_Q145_U7_Q146",
+   "section": "U7 Natural Selection",
+   "members": [
+    {
+     "label": "U7 Q145",
+     "unit": "U7",
+     "qnum": 145,
+     "sg1_page": 599,
+     "keep": true
+    },
+    {
+     "label": "U7 Q146",
+     "unit": "U7",
+     "qnum": 146,
+     "sg1_page": 600,
+     "keep": false
+    }
+   ],
+   "keep": "U7 Q145",
+   "stem": "",
+   "img": "U7_Q145_U7_Q146.png"
+  },
+  {
+   "id": "U8_Q4_U8_Q5",
+   "section": "U8 Ecology",
+   "members": [
+    {
+     "label": "U8 Q4",
+     "unit": "U8",
+     "qnum": 4,
+     "sg1_page": 650,
+     "keep": true
+    },
+    {
+     "label": "U8 Q5",
+     "unit": "U8",
+     "qnum": 5,
+     "sg1_page": 651,
+     "keep": false
+    }
+   ],
+   "keep": "U8 Q4",
+   "stem": "",
+   "img": "U8_Q4_U8_Q5.png"
+  },
+  {
+   "id": "U8_Q12_U8_Q79",
+   "section": "U8 Ecology",
+   "members": [
+    {
+     "label": "U8 Q12",
+     "unit": "U8",
+     "qnum": 12,
+     "sg1_page": 654,
+     "keep": true
+    },
+    {
+     "label": "U8 Q79",
+     "unit": "U8",
+     "qnum": 79,
+     "sg1_page": 703,
+     "keep": false
+    }
+   ],
+   "keep": "U8 Q12",
+   "stem": "",
+   "img": "U8_Q12_U8_Q79.png"
+  },
+  {
+   "id": "U8_Q91_U8_Q92",
+   "section": "U8 Ecology",
+   "members": [
+    {
+     "label": "U8 Q91",
+     "unit": "U8",
+     "qnum": 91,
+     "sg1_page": 714,
+     "keep": true
+    },
+    {
+     "label": "U8 Q92",
+     "unit": "U8",
+     "qnum": 92,
+     "sg1_page": 715,
+     "keep": false
+    }
+   ],
+   "keep": "U8 Q91",
+   "stem": "",
+   "img": "U8_Q91_U8_Q92.png"
+  },
+  {
+   "id": "U8_Q106_U8_Q107",
+   "section": "U8 Ecology",
+   "members": [
+    {
+     "label": "U8 Q106",
+     "unit": "U8",
+     "qnum": 106,
+     "sg1_page": 723,
+     "keep": true
+    },
+    {
+     "label": "U8 Q107",
+     "unit": "U8",
+     "qnum": 107,
+     "sg1_page": 724,
+     "keep": false
+    }
+   ],
+   "keep": "U8 Q106",
+   "stem": "",
+   "img": "U8_Q106_U8_Q107.png"
+  },
+  {
+   "id": "U8_Q130_U8_Q131",
+   "section": "U8 Ecology",
+   "members": [
+    {
+     "label": "U8 Q130",
+     "unit": "U8",
+     "qnum": 130,
+     "sg1_page": 740,
+     "keep": true
+    },
+    {
+     "label": "U8 Q131",
+     "unit": "U8",
+     "qnum": 131,
+     "sg1_page": 741,
+     "keep": false
+    }
+   ],
+   "keep": "U8 Q130",
+   "stem": "",
+   "img": "U8_Q130_U8_Q131.png"
+  },
+  {
+   "id": "U8_Q135_U8_Q140",
+   "section": "U8 Ecology",
+   "members": [
+    {
+     "label": "U8 Q135",
+     "unit": "U8",
+     "qnum": 135,
+     "sg1_page": 744,
+     "keep": true
+    },
+    {
+     "label": "U8 Q140",
+     "unit": "U8",
+     "qnum": 140,
+     "sg1_page": 746,
+     "keep": false
+    }
+   ],
+   "keep": "U8 Q135",
+   "stem": "",
+   "img": "U8_Q135_U8_Q140.png"
+  }
+ ],
+ "frq_groups": [
+  {
+   "id": "SG1_FRQ_Q2_Q5_Q7",
+   "section": "SG1 FRQ（＝WB Phase One）",
+   "members": [
+    {
+     "label": "FRQ Q2",
+     "qnum": 2,
+     "sg1_page": 783,
+     "keep": true
+    },
+    {
+     "label": "FRQ Q5",
+     "qnum": 5,
+     "sg1_page": 795,
+     "keep": false
+    },
+    {
+     "label": "FRQ Q7",
+     "qnum": 7,
+     "sg1_page": 803,
+     "keep": false
+    }
+   ],
+   "keep": "FRQ Q2",
+   "stem": "题干长文本完全一致",
+   "img": "SG1_FRQ_Q2_Q5_Q7.png"
+  },
+  {
+   "id": "SG1_FRQ_Q8_Q13",
+   "section": "SG1 FRQ（＝WB Phase One）",
+   "members": [
+    {
+     "label": "FRQ Q8",
+     "qnum": 8,
+     "sg1_page": 807,
+     "keep": true
+    },
+    {
+     "label": "FRQ Q13",
+     "qnum": 13,
+     "sg1_page": 823,
+     "keep": false
+    }
+   ],
+   "keep": "FRQ Q8",
+   "stem": "题干长文本完全一致",
+   "img": "SG1_FRQ_Q8_Q13.png"
+  },
+  {
+   "id": "SG1_FRQ_Q9_Q14",
+   "section": "SG1 FRQ（＝WB Phase One）",
+   "members": [
+    {
+     "label": "FRQ Q9",
+     "qnum": 9,
+     "sg1_page": 810,
+     "keep": true
+    },
+    {
+     "label": "FRQ Q14",
+     "qnum": 14,
+     "sg1_page": 826,
+     "keep": false
+    }
+   ],
+   "keep": "FRQ Q9",
+   "stem": "题干长文本完全一致",
+   "img": "SG1_FRQ_Q9_Q14.png"
+  },
+  {
+   "id": "SG1_FRQ_Q10_Q12",
+   "section": "SG1 FRQ（＝WB Phase One）",
+   "members": [
+    {
+     "label": "FRQ Q10",
+     "qnum": 10,
+     "sg1_page": 813,
+     "keep": true
+    },
+    {
+     "label": "FRQ Q12",
+     "qnum": 12,
+     "sg1_page": 820,
+     "keep": false
+    }
+   ],
+   "keep": "FRQ Q10",
+   "stem": "题干长文本完全一致",
+   "img": "SG1_FRQ_Q10_Q12.png"
+  },
+  {
+   "id": "WB_PhaseTwo_Q2_Q4",
+   "section": "WB FRQ Phase Two",
+   "members": [
+    {
+     "label": "PhaseTwo Q2",
+     "qnum": 2,
+     "wb_page": 625,
+     "keep": true
+    },
+    {
+     "label": "PhaseTwo Q4",
+     "qnum": 4,
+     "wb_page": 628,
+     "keep": false
+    }
+   ],
+   "keep": "PhaseTwo Q2",
+   "stem": "题干长文本完全一致",
+   "img": "WB_PhaseTwo_Q2_Q4.png"
+  },
+  {
+   "id": "WB_PhaseTwo_Q5_Q11",
+   "section": "WB FRQ Phase Two",
+   "members": [
+    {
+     "label": "PhaseTwo Q5",
+     "qnum": 5,
+     "wb_page": 630,
+     "keep": true
+    },
+    {
+     "label": "PhaseTwo Q11",
+     "qnum": 11,
+     "wb_page": 640,
+     "keep": false
+    }
+   ],
+   "keep": "PhaseTwo Q5",
+   "stem": "题干长文本完全一致",
+   "img": "WB_PhaseTwo_Q5_Q11.png"
+  },
+  {
+   "id": "WB_PhaseTwo_Q7_Q9",
+   "section": "WB FRQ Phase Two",
+   "members": [
+    {
+     "label": "PhaseTwo Q7",
+     "qnum": 7,
+     "wb_page": 633,
+     "keep": true
+    },
+    {
+     "label": "PhaseTwo Q9",
+     "qnum": 9,
+     "wb_page": 636,
+     "keep": false
+    }
+   ],
+   "keep": "PhaseTwo Q7",
+   "stem": "题干长文本完全一致",
+   "img": "WB_PhaseTwo_Q7_Q9.png"
+  }
+ ],
+ "chem_pairs": [
+  {
+   "id": "PC_Q1",
+   "pc_qnum": 1,
+   "topic": "2.1",
+   "topic_qnum": 6,
+   "topic_name": "2.1 Types of Chemical Bonds",
+   "pc_page": 1,
+   "topic_page": 2,
+   "topic_pdf": "chem_2_1_A.pdf",
+   "stem": "on the basis of electronegativity differences between atoms which of the following scientific claims is the most accurate regarding the bonding in",
+   "img": "PC_Q1=2.1_Q6.png"
+  },
+  {
+   "id": "PC_Q2",
+   "pc_qnum": 2,
+   "topic": "2.1",
+   "topic_qnum": 14,
+   "topic_name": "2.1 Types of Chemical Bonds",
+   "pc_page": 1,
+   "topic_page": 6,
+   "topic_pdf": "chem_2_1_A.pdf",
+   "stem": "which of the following claims about a binary compound in which the bonding is ionic is most likely to be scientifically valid",
+   "img": "PC_Q2=2.1_Q14.png"
+  },
+  {
+   "id": "PC_Q3",
+   "pc_qnum": 3,
+   "topic": "2.1",
+   "topic_qnum": 10,
+   "topic_name": "2.1 Types of Chemical Bonds",
+   "pc_page": 1,
+   "topic_page": 4,
+   "topic_pdf": "chem_2_1_A.pdf",
+   "stem": "which of the following claims about a binary compound composed of elements with the same electronegativity is most likely to be true",
+   "img": "PC_Q3=2.1_Q10.png"
+  },
+  {
+   "id": "PC_Q4",
+   "pc_qnum": 4,
+   "topic": "2.3",
+   "topic_qnum": 5,
+   "topic_name": "2.3 Structure of Ionic Solids",
+   "pc_page": 2,
+   "topic_page": 5,
+   "topic_pdf": "chem_2_3_A.pdf",
+   "stem": "molten liquid is represented by the particulate diagram shown above which of the following indicates whether conducts electricity and best explains why or why not",
+   "img": "PC_Q4=2.3_Q5.png"
+  },
+  {
+   "id": "PC_Q5",
+   "pc_qnum": 5,
+   "topic": "2.3",
+   "topic_qnum": 8,
+   "topic_name": "2.3 Structure of Ionic Solids",
+   "pc_page": 2,
+   "topic_page": 9,
+   "topic_pdf": "chem_2_3_A.pdf",
+   "stem": "the particulate level diagram shown above best helps to explain which of the following properties of ionic solids",
+   "img": "PC_Q5=2.3_Q8.png"
+  },
+  {
+   "id": "PC_Q6",
+   "pc_qnum": 6,
+   "topic": "2.3",
+   "topic_qnum": 3,
+   "topic_name": "2.3 Structure of Ionic Solids",
+   "pc_page": 3,
+   "topic_page": 4,
+   "topic_pdf": "chem_2_3_A.pdf",
+   "stem": "the particles in solid a stable ionic compound are arranged to maximize coulombic attractions while minimizing coulombic repulsions among the particles which of the following diagrams best represents ",
+   "img": "PC_Q6=2.3_Q3.png"
+  },
+  {
+   "id": "PC_Q7",
+   "pc_qnum": 7,
+   "topic": "2.4",
+   "topic_qnum": 3,
+   "topic_name": "2.4 Structure of Metals and Alloys",
+   "pc_page": 4,
+   "topic_page": 3,
+   "topic_pdf": "chem_2_4_A.pdf",
+   "stem": "which of the following indicates whether the solid substance represented by the particulate diagram shown above conducts electricity and explains why or why not",
+   "img": "PC_Q7=2.4_Q3.png"
+  },
+  {
+   "id": "PC_Q8",
+   "pc_qnum": 8,
+   "topic": "2.4",
+   "topic_qnum": 5,
+   "topic_name": "2.4 Structure of Metals and Alloys",
+   "pc_page": 4,
+   "topic_page": 4,
+   "topic_pdf": "chem_2_4_A.pdf",
+   "stem": "which of the following particulate level diagrams best represents an interstitial alloy",
+   "img": "PC_Q8=2.4_Q5.png"
+  },
+  {
+   "id": "PC_Q9",
+   "pc_qnum": 9,
+   "topic": "2.4",
+   "topic_qnum": 9,
+   "topic_name": "2.4 Structure of Metals and Alloys",
+   "pc_page": 6,
+   "topic_page": 8,
+   "topic_pdf": "chem_2_4_A.pdf",
+   "stem": "the diagram above best illustrates which of the following phenomena associated with solids that have metallic bonding",
+   "img": "PC_Q9=2.4_Q9.png"
+  },
+  {
+   "id": "PC_Q10",
+   "pc_qnum": 10,
+   "topic": "2.6",
+   "topic_qnum": 6,
+   "topic_name": "2.6 Resonance and Formal Charge",
+   "pc_page": 6,
+   "topic_page": 3,
+   "topic_pdf": "chem_2_6_A.pdf",
+   "stem": "which of the diagrams above best represents the molecule and why",
+   "img": "PC_Q10=2.6_Q6.png"
+  },
+  {
+   "id": "PC_Q11",
+   "pc_qnum": 11,
+   "topic": "2.6",
+   "topic_qnum": 8,
+   "topic_name": "2.6 Resonance and Formal Charge",
+   "pc_page": 7,
+   "topic_page": 4,
+   "topic_pdf": "chem_2_6_A.pdf",
+   "stem": "based on formal charges which of the following is the best lewis electron dot diagram for",
+   "img": "PC_Q11=2.6_Q8.png"
+  },
+  {
+   "id": "PC_Q12",
+   "pc_qnum": 12,
+   "topic": "2.6",
+   "topic_qnum": 7,
+   "topic_name": "2.6 Resonance and Formal Charge",
+   "pc_page": 8,
+   "topic_page": 4,
+   "topic_pdf": "chem_2_6_A.pdf",
+   "stem": "which of the lewis diagrams shown above is the more likely structure of and why",
+   "img": "PC_Q12=2.6_Q7.png"
+  },
+  {
+   "id": "PC_Q13",
+   "pc_qnum": 13,
+   "topic": "2.7",
+   "topic_qnum": 40,
+   "topic_name": "2.7 VSEPR and Hybridization",
+   "pc_page": 8,
+   "topic_page": 18,
+   "topic_pdf": "chem_2_7_A.pdf",
+   "stem": "which of the following lewis diagrams represents a molecule that is polar",
+   "img": "PC_Q13=2.7_Q40.png"
+  },
+  {
+   "id": "PC_Q14",
+   "pc_qnum": 14,
+   "topic": "2.7",
+   "topic_qnum": 7,
+   "topic_name": "2.7 VSEPR and Hybridization",
+   "pc_page": 9,
+   "topic_page": 4,
+   "topic_pdf": "chem_2_7_A.pdf",
+   "stem": "which of the following correctly compares the strength of the two carbon to carbon bonds in the molecule represented in the lewis diagram shown above",
+   "img": "PC_Q14=2.7_Q7.png"
+  },
+  {
+   "id": "PC_Q15",
+   "pc_qnum": 15,
+   "topic": "2.7",
+   "topic_qnum": 2,
+   "topic_name": "2.7 VSEPR and Hybridization",
+   "pc_page": 9,
+   "topic_page": 1,
+   "topic_pdf": "chem_2_7_A.pdf",
+   "stem": "based on the lewis diagram for shown above the bond angle is closest to which of the following",
+   "img": "PC_Q15=2.7_Q2.png"
+  }
+ ],
+ "not_dup": [
+  {
+   "section": "U2 Cell",
+   "members": [
+    {
+     "label": "U2 Q28",
+     "sg1_page": 71
+    },
+    {
+     "label": "U2 Q88",
+     "sg1_page": 113
+    }
+   ],
+   "questions": "Q28 问\"降低蒸腾的 EXCEPT\"；Q88 问\"由图 I 可推出什么\"",
+   "img": "extra_28-U2_Q28_Q88.png",
+   "id": "extra_28-U2_Q28_Q88"
+  },
+  {
+   "section": "U2 Cell",
+   "members": [
+    {
+     "label": "U2 Q81",
+     "sg1_page": 109
+    },
+    {
+     "label": "U2 Q85",
+     "sg1_page": 112
+    }
+   ],
+   "questions": "Q81 问等渗浓度；Q85 问水进出细胞方式",
+   "img": "extra_81-U2_Q81_Q85.png",
+   "id": "extra_81-U2_Q81_Q85"
+  },
+  {
+   "section": "U3 Cellular Energetics",
+   "members": [
+    {
+     "label": "U3 Q121",
+     "sg1_page": 214
+    },
+    {
+     "label": "U3 Q134",
+     "sg1_page": 223
+    },
+    {
+     "label": "U3 Q137",
+     "sg1_page": 226
+    }
+   ],
+   "questions": "分别问\"最低速率时段 / 斜率变化原因 / 速率测定方法\"",
+   "img": "g24.png",
+   "id": "g24"
+  },
+  {
+   "section": "U7 Natural Selection",
+   "members": [
+    {
+     "label": "U7 Q168",
+     "sg1_page": 614
+    },
+    {
+     "label": "U7 Q193",
+     "sg1_page": 628
+    },
+    {
+     "label": "U7 Q194",
+     "sg1_page": 629
+    },
+    {
+     "label": "U7 Q195",
+     "sg1_page": 629
+    }
+   ],
+   "questions": "分别问\"差异原因 / G 频率 / 杂合比例 / 1962 年白色蛾比例\"",
+   "img": "extra_193-U7_Q193_Q195.png",
+   "id": "extra_193-U7_Q193_Q195"
+  },
+  {
+   "section": "U7 Natural Selection",
+   "members": [
+    {
+     "label": "U7 Q185",
+     "sg1_page": 624
+    },
+    {
+     "label": "U7 Q210",
+     "sg1_page": 638
+    }
+   ],
+   "questions": "Q185 问影响频率的因素；Q210 问 H-W 平衡下基因型频率",
+   "img": "g32.png",
+   "id": "g32"
+  },
+  {
+   "section": "U7 Natural Selection",
+   "members": [
+    {
+     "label": "U7 Q205",
+     "sg1_page": 636
+    },
+    {
+     "label": "U7 Q206",
+     "sg1_page": 636
+    }
+   ],
+   "questions": "Q205 问杂合子比例；Q206 问 b 等位基因频率",
+   "img": "g33.png",
+   "id": "g33"
+  }
+ ],
+ "files_target": [
+  {
+   "name": "AP去重整合题库_生物U1+酶_化学U2.pdf",
+   "pages": 172,
+   "desc": "整合版：生物U1(74) + 生物U3酶(45) + 化学U2(115+FRQ)",
+   "file": "AP去重整合题库_生物U1+酶_化学U2.pdf"
+  },
+  {
+   "name": "AP Biology Unit 1（去重版）.pdf",
+   "pages": 56,
+   "desc": "生物 Unit 1，74 题含答案",
+   "file": "单独题库/AP Biology Unit 1 Chemistry of Life（去重版）.pdf"
+  },
+  {
+   "name": "AP Biology Unit 3 酶相关（去重版）.pdf",
+   "pages": 32,
+   "desc": "酶专题 45 题含答案，重编号 1–45",
+   "file": "单独题库/AP Biology Unit 3 酶相关（去重版）.pdf"
+  },
+  {
+   "name": "AP Chemistry Unit 2（去重版）.pdf",
+   "pages": 75,
+   "desc": "化学 U2 全部 115 题答案版 + PC FRQ",
+   "file": "单独题库/AP Chemistry Unit 2（去重版）.pdf"
+  }
+ ],
+ "files_report": [
+  {
+   "name": "重复题目筛查报告.pdf",
+   "desc": "主报告（二次检查修订版）",
+   "file": "重复题目筛查报告.pdf"
+  },
+  {
+   "name": "重复题目全文清单.pdf",
+   "desc": "确认重复题的原题全文（47 页）",
+   "file": "重复题目全文清单.pdf"
+  }
+ ],
+ "files_source": [
+  {
+   "name": "AP Biology Scoring Guide 1（947 页）",
+   "src_pdf": "sg1.pdf",
+   "report_pdf": "报告_AP Biology Scoring Guide 1.pdf"
+  },
+  {
+   "name": "AP Biology Scoring Guide 2（163 页）",
+   "src_pdf": "sg2.pdf",
+   "report_pdf": "报告_AP Biology Scoring Guide 2.pdf"
+  },
+  {
+   "name": "AP Biology Workbook（798 页）",
+   "src_pdf": "wb.pdf",
+   "report_pdf": "报告_AP Biology Workbook.pdf"
+  },
+  {
+   "name": "2.1 Types of Chemical Bonds（题目版+答案版）",
+   "src_pdf": "chem_2_1_A.pdf",
+   "report_pdf": "报告_2.1 Types of Chemical Bonds.pdf"
+  },
+  {
+   "name": "2.2 Intramolecular Force and Potential Energy（题目版+答案版）",
+   "src_pdf": null,
+   "report_pdf": "报告_2.2 Intramolecular Force and Potential Energy.pdf"
+  },
+  {
+   "name": "2.3 Structure of Ionic Solids（题目版+答案版）",
+   "src_pdf": "chem_2_3_A.pdf",
+   "report_pdf": "报告_2.3 Structure of Ionic Solids.pdf"
+  },
+  {
+   "name": "2.4 Structure of Metals and Alloys（题目版+答案版）",
+   "src_pdf": "chem_2_4_A.pdf",
+   "report_pdf": "报告_2.4 Structure of Metals and Alloys.pdf"
+  },
+  {
+   "name": "2.5 Lewis Diagrams（题目版+答案版）",
+   "src_pdf": null,
+   "report_pdf": "报告_2.5 Lewis Diagrams.pdf"
+  },
+  {
+   "name": "2.6 Resonance and Formal Charge（题目版+答案版）",
+   "src_pdf": "chem_2_6_A.pdf",
+   "report_pdf": "报告_2.6 Resonance and Formal Charge.pdf"
+  },
+  {
+   "name": "2.7 VSEPR and Hybridization（题目版+答案版）",
+   "src_pdf": "chem_2_7_A.pdf",
+   "report_pdf": "报告_2.7 VSEPR and Hybridization.pdf"
+  },
+  {
+   "name": "Unit 2 Progress Check MCQ（15 题）",
+   "src_pdf": "pc_mcq.pdf",
+   "report_pdf": "报告_Unit 2 Progress Check MCQ.pdf"
+  },
+  {
+   "name": "Unit 2 Progress Check FRQ（1 大题）",
+   "src_pdf": null,
+   "report_pdf": "报告_Unit 2 Progress Check FRQ.pdf"
+  }
+ ]
+}
